@@ -29,6 +29,8 @@ A step-by-step guide on how to setup/debloat Windows 11
   ```ps
   irm https://get.activated.win | iex
   ```
+## Lenovo laptop ABNT keyboard layout fix
+- https://support.lenovo.com/br/pt/solutions/ht509895-how-to-enable-key-lenovo-100e300e
 ## Bonus: Setup OH-MY-ZSH on WSL
 - Follow [this guide](https://github.com/dudushy/install-oh-my-zsh)
 ## References:
