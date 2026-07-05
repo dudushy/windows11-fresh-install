@@ -18,7 +18,7 @@ A step-by-step guide on how to setup/debloat Windows 11
   ```
 - Download and install Excel, PowerPoint and Word
   1. Go to the Windows installation disk and create a folder named `Office` (like `C:/Office`)
-  2. Copy the `Configuration.xml` file to the folder from the [sample]() or [create your own](https://config.office.com/deploymentsettings)
+  2. Copy the `Configuration.xml` file to the folder from the [sample](./samples/Configuration.xml) or [create your own](https://config.office.com/deploymentsettings)
   3. Download the `setup.exe` to the folder from the [link](https://officecdn.microsoft.com/pr/wsus/setup.exe)
   4. Open the CMD as **Administrator** and run:
     ```cmd
@@ -30,7 +30,7 @@ A step-by-step guide on how to setup/debloat Windows 11
   irm https://get.activated.win | iex
   ```
 ## Bonus: Setup OH-MY-ZSH on WSL
-- Follow [this guide]()
+- Follow [this guide](https://github.com/dudushy/install-oh-my-zsh)
 ## References:
 - https://github.com/christitustech/winutil
 - https://winget.run/
