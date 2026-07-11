@@ -1,6 +1,7 @@
 # windows11-fresh-install
 A step-by-step guide on how to setup/debloat Windows 11
 ## While setting up Windows 11
+- REMEMBER TO DISCONNECT THE ETHERNET
 - Press `SHIFT` + `F10` to open the CMD Terminal, then run:
   ```
   oobe\bypassnro
